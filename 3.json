@@ -146,6 +146,18 @@
             
          }
       },
+       {
+      "name": "543",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.m3u",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "142",
+      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.php",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      },
       {
          "name":"BeeSport直播",
          "type":3,
