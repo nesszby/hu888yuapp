@@ -1,0 +1,92 @@
+{
+
+"lives": [
+    {
+      "name": "345",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }, 
+    {
+      "name": "sp",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+   {
+      "name": "sp1",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp1.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    {
+      "name": "sp2",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp2.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   {
+      "name": "sp3",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp3.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+   {
+      "name": "sp4",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp4.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+   {
+      "name": "sp5",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp5.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "sp6",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp6.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "sp7",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp7.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "sp8",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp9.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+     {
+      "name": "sp9",
+     "url": "https://raw.githubusercontent.com/hus888yu/app/main/sp9.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+
+    {
+      "name": "LITV直播(python)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+      "ext": {}
+    },
+      
+        {
+            "name": "18+日本",
+            "type": 0,
+            "url": "http://files.catbox.moe/2r4ru2.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }    
+  
+  
+      ]
+}
