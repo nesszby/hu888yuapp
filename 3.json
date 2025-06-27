@@ -325,41 +325,20 @@
       "changeable": 1
     }
   ],
- "lives":[
-  {
+  "lives": [
+    {
       "name": "543",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.m3u",
+      "url": "http://99.iptv543.com/4gtv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-
-      {
-         "name":"斯玛特全球直播",
-         "type":3,
-         "api":"https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt.py",
-         "ext":{
-            
-         }
-      },
-       {
-         {
+    {
       "name": "142",
-      "url": "https://raw.githubusercontent.com/hus888yu/app/main/543.php",
+      "url": "http://99.iptv543.com/142.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-      },
-      {
-         "name":"BeeSport直播",
-         "type":3,
-         "api":"https://json.doube.eu.org/python/live_beesport.py",
-         "ext":{
-            
-         },
-         "header":{
-            "Referer":"https://p.m82xg4z0cdbz7.com/"
-         }
-      }
-   ],
+    }
+  ],
   "doh": [
     {
       "name": "Google",
@@ -405,5 +384,3 @@
     }
   ]
 }
-
-  
